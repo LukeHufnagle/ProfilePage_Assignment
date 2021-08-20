@@ -91,6 +91,7 @@ li a{
     position: absolute;
     left: 40px;
     top: 50px;
+    border: 2px solid black;
 }
 
 .myName{
