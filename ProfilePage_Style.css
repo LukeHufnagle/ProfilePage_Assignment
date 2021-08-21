@@ -243,7 +243,7 @@ li a{
     border-radius: 50%;
 }
 
-.acceptDeny, .acceptDeny2{
+.acceptDeny, .acceptDeny2, .acceptDeny3{
     width: 40px;
     height: 40px;
 }
@@ -294,7 +294,7 @@ li a{
 }
 
 .nameList{
-    width: 350px;
+    width: 500px;
     list-style-type: none;
     position: absolute;
     left: 20px;
@@ -315,4 +315,17 @@ li a{
     position: absolute;
     left: -2px;
     top: 310px;
+}
+
+
+.acceptImgs{
+    position: absolute;
+    left: 180px;
+    bottom: 0px;
+}
+
+.denyImgs{
+    position: absolute;
+    left: 230px;
+    bottom: 0px;
 }
